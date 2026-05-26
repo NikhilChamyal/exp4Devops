@@ -1,1 +1,1 @@
-just an experiment for devops..
+just an experiment for DevOps..
